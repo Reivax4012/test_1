@@ -7,6 +7,6 @@
 
 int main(int ac, char** av)
 {
-    write(1, "Hellop !\n", 9);
+    write(1, "Hello !\n", 8);
     return (0);
 }
